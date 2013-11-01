@@ -1,0 +1,115 @@
+html {
+    
+    width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-top: auto;
+    font-family: Arial;
+    background-color: #000;
+}
+
+body {
+    display: inline;
+    color: #c0d0e0;
+    
+    
+}
+header > a {
+ 
+    font-size: 12px;
+    margin: 2px;
+}
+
+select {
+    font-family: Arial;
+    font-size: 12px;
+    margin: 2px;
+    background-color: #c0d0e0;
+    color: #3c2ee8;
+}
+
+span > a {
+    float: right;
+    font-size: 12px;
+}
+
+
+img {
+    width: 350px;
+    height: 250px;
+    float: right;
+    display: inline;
+    
+    margin-right: 0px;
+    padding: none;
+}
+
+div > div {
+    border: 3px ridge #e0dfd7;
+    width: 180px;
+    height: 270px;
+    display: inline-table;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-top: 20px;
+}
+
+p {
+    font-size: 15px;
+    margin-right: 15px;
+    margin-top: auto;
+    margin-left: 5px;
+}
+
+div > h3 {
+    text-align: center;
+    font-size: 16px;
+}
+
+div > p {
+    font-size: 12px;
+}
+
+#border {
+    border: transparent; 
+    display: inline-table;
+    float: right;
+}
+
+div img {
+    width: 30px;
+    height: 30px;
+    padding: 5px;
+}
+
+iframe {
+    width = 180px;
+    height = 220px;
+    display:inline-table;
+}
+
+footer {
+    width: auto;
+    height: 25px;
+    background-color: #999999;
+    font-size: 12px;
+    text-align:center;
+    margin-top: 15px;    
+}
+
+input {
+    background-color: #c0d0e0;
+
+}
+
+h6 {
+    margin: auto;   
+}
+
+
+a:link {
+    color: #6386ef;   
+}
+
+

@@ -1,0 +1,89 @@
+body {
+    width: 1000px;
+    background-image: url(../images/background.png);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px;
+    font-family: sans-serif;
+}
+
+img {
+    height: 300px;
+    width: 1000px;
+    margin-top: 20px;
+    display: inline;
+}
+
+span {
+    float: right;
+    padding: 5px;    
+}
+
+a:link {
+    color: #465d74;
+}
+a:hover {
+    color: #3cc0f0;
+    
+}
+
+div > img {
+    height: 100px;
+    width: 120px;
+    float: left;
+    display: inline;
+}
+
+div div {
+    float: right;
+    color: #1a3bba;
+    width: 300px;
+    display: inline;
+}
+
+div p {
+    color: #000;
+    font-family: "Arial Black";
+    width: 500px;
+    float: left;
+    
+
+}
+
+h1 {
+    text-align: left;  
+    margin: auto;
+    font-size-adjust: auto;
+    text-shadow: 5px 3px 5px #123654;
+    
+}
+h1:hover {
+    background-color: #321456;
+    border: 3px ridge #123123;
+    color: #76a7d8;
+}
+
+p {
+    color:#132465;
+    margin: 2px;; 
+    font-size: 15px;
+}
+
+input {
+    color:#062531;
+    font-family: monospace;
+    margin-bottom: 10px;
+    
+}
+
+video {
+    height: 300px;
+    width: 400px;
+    margin: 2px;
+    float: left;
+}
+
+input:hover {
+    color: #2551cc;
+    border: 3px ridge #555555;
+}
