@@ -1,0 +1,13 @@
+article {
+    background-color: #125636;
+}
+
+div{
+    background-color: #125636;
+    height: 10em;
+    width: 20em;
+}
+
+span {
+    color: blue;
+}

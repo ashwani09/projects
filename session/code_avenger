@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+    <head>
+  <title>Code Avengers Profile</title>
+  
+  <meta name="viewport" content="width=device-width">
+  <meta name="description" content="Code Avengers superhero profile page">
+  <link rel="stylesheet" href="http://codeavengers.com/css/profile1.css">
+    </head>
+    <body>
+        <header>
+        <a href="http://codeavengers.com/index.html"><img alt="Code Avengers logo " title="Go to Code Avengers home page" /></a>|
+        <a href="http://blog.codeavengers.com">Blog</a>
+        <a href="/m/about.html">| About us</a>
+  </header>
+  <section>
+  <h2>My Profile</h2>
+  <strong>Name:</strong> Ashwani Kumar Shukla<br />
+  <strong>Birthday.</strong> 18<sup>th</sup> December<br />
+  <strong>Height:</strong> 1.73m
+  <br>
+  <img src="http://codeavengers.com/images/profile1.png" height = "140" width = "300" title="I'm an Avenger" alt="Avenger"/>
+  <a href="http://wallpaperology.com/zombie/3353645-ws_Gadgets_1920x1080.jpg" target="_blank"><img src="http://wallpaperology.com/zombie/3353645-ws_Gadgets_1920x1080.jpg" height="140" width="200" title="Here's a gadget set" alt="gadgets"/></a><br>
+  It's a gadget show
+  
+  <hr>
+  <h1>My Super Powers</h1>
+  <p>My Height</p>
+  <p>My Presence of Mind</p>
+  <p>My Deduction Power</p>
+  
+  <h2>My Top Websites</h2>
+  <ul>
+    <li><a href="https://www.google.co.in">My Search Engine</a></li>
+    <li><a href="www.facebook.com">My Sociol Network</a></li>
+    <li><a href="www.twitter.com">Micro Blogger</a></li>
+    <li><a href="www.linkedin.com">My Professional Network</a></li>
+  </ul>
+  
+  <h2>My Top 5</h2>
+  <ol>
+    <li>Sachin Tendulkar</li>
+    <li>A. R. Rehman</li>
+    <li>Jules Verne </li>
+    <li>20000 leagues under the sea</li>
+    <li>The Journey to the Centre of the Earth</li>
+  </ol>
+  </section>
+  <footer>Created by Mike ©2012 </footer>
+  
